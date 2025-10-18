@@ -5,6 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/andrew/School/CSE381/HW3/WolfieCart/WolfieCart/Content/Vehicles/SportsCar/SM_SportsCar.uasset",
+				"/Users/andrew/School/CSE381/HW3/WolfieCart/WolfieCart/Content/Vehicles/SportsCar/Materials/MI_SportsCarBodyBlack.uasset",
+				"/Users/andrew/School/CSE381/HW3/WolfieCart/WolfieCart/Content/Vehicles/SportsCar/Materials/MI_SportsCarBodyGreen.uasset",
+				"/Users/andrew/School/CSE381/HW3/WolfieCart/WolfieCart/Content/Vehicles/SportsCar/Materials/MI_SportsCarBodyPink.uasset",
+				"/Users/andrew/School/CSE381/HW3/WolfieCart/WolfieCart/Content/VehicleTemplate/Blueprints/SportsCar/BP_NPC2.uasset",
+				"/Users/andrew/School/CSE381/HW3/WolfieCart/WolfieCart/Content/VehicleTemplate/Blueprints/SportsCar/BP_NPC3.uasset",
+				"/Users/andrew/School/CSE381/HW3/WolfieCart/WolfieCart/Content/VehicleTemplate/Blueprints/SportsCar/BP_NPC1.uasset",
+				"/Users/andrew/School/CSE381/HW3/WolfieCart/WolfieCart/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/4/DQ/MMWI7ERC56SPY4Y58B5ARV.uasset",
+				"/Users/andrew/School/CSE381/HW3/WolfieCart/WolfieCart/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/4/T8/SSPVTWVCUCW4HZZNH78TID.uasset",
+				"/Users/andrew/School/CSE381/HW3/WolfieCart/WolfieCart/Content/VehicleTemplate/Blueprints/BP_VehicleAdvGameMode.uasset",
+				"/Users/andrew/School/CSE381/HW3/WolfieCart/WolfieCart/Content/__ExternalActors__/VehicleTemplate/Maps/Lvl_VehicleBasic/E/HI/I5OM038R5WY81DLPN1N00D.uasset",
 				"C:/Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Content/VehicleTemplate/Blueprints/SportsCar/BP_VehicleAdvSportsCar.uasset",
 				"C:/Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Content/VehicleTemplate/Blueprints/BP_VehicleAdvGameMode.uasset"
 			]
