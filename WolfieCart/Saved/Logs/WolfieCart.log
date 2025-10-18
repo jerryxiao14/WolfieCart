@@ -1136,3 +1136,272 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.18-17.05.45:292][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 11.238928
 [2025.10.18-17.05.45:295][ 10]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -227189215
 [2025.10.18-17.05.45:295][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11.238928, Update Interval: 304.489868
+[2025.10.18-17.07.19:535][348]LogDerivedDataCache: C:/Users/jerry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.009 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.18-17.09.27:588][322]LogSlate: Took 0.028856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.18-17.10.50:108][865]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 316.391815
+[2025.10.18-17.10.51:111][868]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.18-17.10.51:112][868]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 317.060242, Update Interval: 328.519531
+[2025.10.18-17.11.46:260][ 64]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.10.18-17.12.15:282][316]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.18-17.12.15:391][316]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VehicleTemplate/Blueprints/SportsCar/BP_VehicleAdvSportsCar] ([2] browsable assets)...
+[2025.10.18-17.12.15:392][316]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/Blueprints/SportsCar/BP_VehicleAdvSportsCar]
+[2025.10.18-17.12.15:471][316]LogSavePackage: Moving output files for package: /Game/VehicleTemplate/Blueprints/SportsCar/BP_VehicleAdvSportsCar
+[2025.10.18-17.12.15:472][316]LogSavePackage: Moving '../../../../../../Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Saved/BP_VehicleAdvSportsCarC9965A0A4AF1F0132CDCBFA95F5B1AE0.tmp' to '../../../../../../Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Content/VehicleTemplate/Blueprints/SportsCar/BP_VehicleAdvSportsCar.uasset'
+[2025.10.18-17.12.15:511][316]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.480 ms
+[2025.10.18-17.12.15:599][316]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.18-17.12.15:599][316]LogContentValidation: Enabled validators:
+[2025.10.18-17.12.15:600][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.18-17.12.15:601][316]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.18-17.12.15:601][316]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.18-17.12.15:601][316]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.18-17.12.15:601][316]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.18-17.12.15:601][316]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.18-17.12.15:603][316]AssetCheck: /Game/VehicleTemplate/Blueprints/SportsCar/BP_VehicleAdvSportsCar Validating asset
+[2025.10.18-17.12.15:641][316]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.18-17.12.21:979][437]LogContentBrowser: Deferred new asset file creation: BP_VehicleAdvSportsCar1
+[2025.10.18-17.12.21:994][437]LogContentBrowser: Creating deferred item: BP_VehicleAdvSportsCar1
+[2025.10.18-17.12.22:033][438]LogContentBrowser: Renaming the item being created (Deferred Item: BP_VehicleAdvSportsCar1).
+[2025.10.18-17.12.31:444][505]LogContentBrowser: Attempting asset rename: BP_VehicleAdvSportsCar1 -> BP_PlayerCar
+[2025.10.18-17.12.31:961][505]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2025.10.18-17.12.31:992][505]LogContentBrowser: End creating deferred item BP_VehicleAdvSportsCar1
+[2025.10.18-17.12.31:995][505]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.10.18-17.12.56:722][672]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.10.18-17.13.19:778][838]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleTemplate/Blueprints/BP_VehicleAdvGameMode.BP_VehicleAdvGameMode
+[2025.10.18-17.13.19:784][838]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.18-17.13.20:030][838]LogStreaming: Display: FlushAsyncLoading(371): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.18-17.13.20:393][838]LogStaticMesh: Display: Building static mesh PhAT_FloorBox (Required Memory Estimate: 0.024887 MB)...
+[2025.10.18-17.13.20:410][838]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/PhAT_FloorBox.PhAT_FloorBox
+[2025.10.18-17.13.35:149][933]LogSlate: Took 0.018131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.10.18-17.13.42:182][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2025.10.18-17.13.45:197][205]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.18-17.13.45:530][205]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VehicleTemplate/Blueprints/BP_VehicleAdvGameMode] ([2] browsable assets)...
+[2025.10.18-17.13.45:530][205]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/Blueprints/BP_VehicleAdvGameMode]
+[2025.10.18-17.13.45:553][205]LogSavePackage: Moving output files for package: /Game/VehicleTemplate/Blueprints/BP_VehicleAdvGameMode
+[2025.10.18-17.13.45:554][205]LogSavePackage: Moving '../../../../../../Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Saved/BP_VehicleAdvGameModeA378486B42E291CA355D68B0889ADDFC.tmp' to '../../../../../../Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Content/VehicleTemplate/Blueprints/BP_VehicleAdvGameMode.uasset'
+[2025.10.18-17.13.45:582][205]LogFileHelpers: InternalPromptForCheckoutAndSave took 383.979 ms (total: 612.459 ms)
+[2025.10.18-17.13.45:670][205]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.18-17.13.45:670][205]LogContentValidation: Enabled validators:
+[2025.10.18-17.13.45:670][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.18-17.13.45:670][205]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.18-17.13.45:670][205]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.18-17.13.45:670][205]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.18-17.13.45:670][205]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.18-17.13.45:670][205]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.18-17.13.45:670][205]AssetCheck: /Game/VehicleTemplate/Blueprints/BP_VehicleAdvGameMode Validating asset
+[2025.10.18-17.13.45:710][205]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.18-17.14.28:803][583]LogContentBrowser: Deferred new asset file creation: BP_PlayerCar1
+[2025.10.18-17.14.28:819][583]LogContentBrowser: Creating deferred item: BP_PlayerCar1
+[2025.10.18-17.14.28:840][584]LogContentBrowser: Renaming the item being created (Deferred Item: BP_PlayerCar1).
+[2025.10.18-17.14.32:513][608]LogContentBrowser: Attempting asset rename: BP_PlayerCar1 -> BP_NPC1
+[2025.10.18-17.14.32:672][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.18-17.14.32:721][608]LogContentBrowser: End creating deferred item BP_PlayerCar1
+[2025.10.18-17.14.32:727][608]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.10.18-17.14.37:203][689]LogContentBrowser: Deferred new asset file creation: BP_NPC2
+[2025.10.18-17.14.37:222][689]LogContentBrowser: Creating deferred item: BP_NPC2
+[2025.10.18-17.14.37:244][690]LogContentBrowser: Renaming the item being created (Deferred Item: BP_NPC2).
+[2025.10.18-17.14.40:910][716]LogContentBrowser: Attempting asset rename: BP_NPC2 -> BP_NPC2
+[2025.10.18-17.14.41:055][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2025.10.18-17.14.41:095][716]LogContentBrowser: End creating deferred item BP_NPC2
+[2025.10.18-17.14.41:100][716]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.10.18-17.14.41:768][719]LogShaderCompilers: Display: ================================================
+[2025.10.18-17.14.41:768][719]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.18-17.14.41:768][719]LogShaderCompilers: Display: Total job queries 2,539, among them cache hits 624 (24.58%), DDC hits 1,814 (71.45%), Duplicates 99 (3.90%)
+[2025.10.18-17.14.41:768][719]LogShaderCompilers: Display: Tracking 1,816 distinct input hashes that result in 1,139 distinct outputs (62.72%)
+[2025.10.18-17.14.41:768][719]LogShaderCompilers: Display: RAM used: 11.71 MiB of 819.20 MiB budget. Usage: 1.43%
+[2025.10.18-17.14.41:768][719]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.18-17.14.41:768][719]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.10.18-17.14.41:768][719]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2025.10.18-17.14.41:768][719]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2025.10.18-17.14.41:768][719]LogShaderCompilers: Display: Job execution time: average 1.39 s, max 1.44 s
+[2025.10.18-17.14.41:768][719]LogShaderCompilers: Display: Job life time (pending + execution): average 1.46 s, max 1.48
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Shader code size: total 16.09 KiB, numShaders 2, average 8.045 KiB, min 7.945 KiB, max 8.145 KiB
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.48 s
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.20%
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Average processing rate: 1.35 jobs/sec
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Total thread time: 1.905 s
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Total thread preprocess time: 63.13 s
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Percentage time preprocessing: 3314.49%
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Effective parallelization: 1.29 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.161255
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.95 sec, max 0.97 sec, min 0.94 sec)
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display:                                   TVirtualTextureVSBaseColor (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display:                     TVirtualTextureVSBaseColorNormalSpecular (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display:                                TVirtualTexturePSDisplacement (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display:                    TVirtualTextureVSBaseColorNormalRoughness (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    2 times, average 0.95 sec, max 0.97 sec, min 0.94 sec)
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display:                     TVirtualTextureVSBaseColorNormalSpecular - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display:                                TVirtualTexturePSDisplacement - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display:                    TVirtualTextureVSBaseColorNormalRoughness - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display:                     TVirtualTexturePSBaseColorNormalSpecular - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: === Material stats ===
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Materials Translated:    149
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Material Translation Only: 0.08 s (44%)
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.18-17.14.41:769][719]LogShaderCompilers: Display: ================================================
+[2025.10.18-17.14.43:212][730]LogContentBrowser: Deferred new asset file creation: BP_NPC3
+[2025.10.18-17.14.43:370][730]LogContentBrowser: Creating deferred item: BP_NPC3
+[2025.10.18-17.14.43:443][731]LogContentBrowser: Renaming the item being created (Deferred Item: BP_NPC3).
+[2025.10.18-17.14.45:290][743]LogContentBrowser: Attempting asset rename: BP_NPC3 -> BP_NPC3
+[2025.10.18-17.14.45:431][743]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.10.18-17.14.45:482][743]LogContentBrowser: End creating deferred item BP_NPC3
+[2025.10.18-17.14.45:486][743]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.10.18-17.14.59:868][844]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC1.BP_NPC1
+[2025.10.18-17.14.59:869][844]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.18-17.14.59:965][844]LogStreaming: Display: FlushAsyncLoading(565): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.18-17.15.03:056][844]LogSlate: Took 0.019778 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.18-17.15.03:698][844]LogAutomationController: Ignoring very large delta of 3.84 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.18-17.15.03:704][845]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.10.18-17.15.04:442][847]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.18-17.16.23:363][686]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 649.648071
+[2025.10.18-17.16.23:816][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.18-17.16.23:817][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 649.950317, Update Interval: 353.182770
+[2025.10.18-17.16.51:136][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2025.10.18-17.16.51:140][876]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VehicleTemplate/Maps/Lvl_VehicleBasic' took 0.075
+[2025.10.18-17.16.51:143][876]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VehicleTemplate/Blueprints/SportsCar/BP_PlayerCar] ([2] browsable assets)...
+[2025.10.18-17.16.51:360][876]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleTemplate/Blueprints/SportsCar/BP_PlayerCar.BP_PlayerCar]
+[2025.10.18-17.16.51:361][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/Blueprints/SportsCar/BP_PlayerCar]
+[2025.10.18-17.16.51:405][876]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VehicleTemplate/Blueprints/SportsCar/BP_PlayerCar_Auto1
+[2025.10.18-17.16.51:405][876]LogSavePackage: Moving '../../../../../../Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Saved/BP_PlayerCar_Auto1C7A022AF4988560624A55F9F70A095B3.tmp' to '../../../../../../Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Saved/Autosaves/Game/VehicleTemplate/Blueprints/SportsCar/BP_PlayerCar_Auto1.uasset'
+[2025.10.18-17.16.51:407][876]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC1] ([2] browsable assets)...
+[2025.10.18-17.16.51:448][876]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC1.BP_NPC1]
+[2025.10.18-17.16.51:448][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC1]
+[2025.10.18-17.16.51:479][876]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC1_Auto1
+[2025.10.18-17.16.51:479][876]LogSavePackage: Moving '../../../../../../Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Saved/BP_NPC1_Auto111EB39E34658F1E7702CB39B07B58EB9.tmp' to '../../../../../../Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Saved/Autosaves/Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC1_Auto1.uasset'
+[2025.10.18-17.16.51:481][876]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC2] ([2] browsable assets)...
+[2025.10.18-17.16.51:520][876]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC2.BP_NPC2]
+[2025.10.18-17.16.51:521][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC2]
+[2025.10.18-17.16.51:552][876]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC2_Auto1
+[2025.10.18-17.16.51:552][876]LogSavePackage: Moving '../../../../../../Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Saved/BP_NPC2_Auto1A751F8644D76202569B4EC96A54C04DB.tmp' to '../../../../../../Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Saved/Autosaves/Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC2_Auto1.uasset'
+[2025.10.18-17.16.51:555][876]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC3] ([2] browsable assets)...
+[2025.10.18-17.16.51:594][876]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC3.BP_NPC3]
+[2025.10.18-17.16.51:596][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC3]
+[2025.10.18-17.16.51:628][876]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC3_Auto1
+[2025.10.18-17.16.51:628][876]LogSavePackage: Moving '../../../../../../Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Saved/BP_NPC3_Auto1B7E12710419F26C7584A95B3C4FAF521.tmp' to '../../../../../../Users/jerry/Documents/CS/CSE 381/WolfieCart/WolfieCart/Saved/Autosaves/Game/VehicleTemplate/Blueprints/SportsCar/BP_NPC3_Auto1.uasset'
+[2025.10.18-17.16.51:630][876]LogFileHelpers: Auto-saving content packages took 0.490
+[2025.10.18-17.17.32:443][151]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2025.10.18-17.17.32:494][151]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.18-17.17.32:519][151]LogStreaming: Display: FlushAsyncLoading(573): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.18-17.17.32:561][151]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2025.10.18-17.17.32:591][151]LogStaticMesh: Built static mesh [0.05s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2025.10.18-17.17.32:626][151]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2025.10.18-17.17.32:627][151]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2025.10.18-17.17.35:507][151]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2025.10.18-17.17.36:086][151]MaterialEditorStats: Texture samplers: 0/16
+[2025.10.18-17.17.36:087][151]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.10.18-17.17.36:087][151]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.18-17.17.36:087][151]MaterialEditorStats: Shader Count: 0
+[2025.10.18-17.17.36:087][151]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.18-17.17.36:479][151]LogAutomationController: Ignoring very large delta of 4.05 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.18-17.17.36:543][153]MaterialEditorStats: Base pass shader: 210 instructions
+Stats: Resources Used: 6
+Resource Limit: 64
+Samplers Used: 3
+Sampler Limit: 32
+
+[2025.10.18-17.17.36:543][153]MaterialEditorStats: Base pass vertex shader: 153 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.10.18-17.17.36:543][153]MaterialEditorStats: Texture samplers: 3/16
+[2025.10.18-17.17.36:543][153]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.10.18-17.17.36:543][153]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.10.18-17.17.36:543][153]MaterialEditorStats: Shader Count: 4
+[2025.10.18-17.17.36:543][153]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.10.18-17.17.41:803][181]LogShaderCompilers: Display: ================================================
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Total job queries 2,575, among them cache hits 634 (24.62%), DDC hits 1,838 (71.38%), Duplicates 99 (3.84%)
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Tracking 1,842 distinct input hashes that result in 1,151 distinct outputs (62.49%)
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: RAM used: 11.78 MiB of 819.20 MiB budget. Usage: 1.44%
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Shaders Compiled: 4
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Average time worker was idle: 348.22 s
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.11 s
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Job execution time: average 1.42 s, max 1.44 s
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Job life time (pending + execution): average 1.50 s, max 1.55
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Shader code size: total 30.246 KiB, numShaders 4, average 7.562 KiB, min 6.402 KiB, max 8.145 KiB
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.02 s
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.20%
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Average processing rate: 1.32 jobs/sec
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Total thread time: 4.053 s
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Total thread preprocess time: 64.341 s
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Percentage time preprocessing: 1587.42%
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Effective parallelization: 1.34 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.167583
+[2025.10.18-17.17.41:804][181]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.18-17.17.41:805][181]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.01 sec, max 1.09 sec, min 0.94 sec)
+[2025.10.18-17.17.41:805][181]LogShaderCompilers: Display:                                   TVirtualTextureVSBaseColor (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.17.41:805][181]LogShaderCompilers: Display:                     TVirtualTextureVSBaseColorNormalSpecular (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.17.41:805][181]LogShaderCompilers: Display:                                TVirtualTexturePSDisplacement (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.17.41:805][181]LogShaderCompilers: Display:                    TVirtualTextureVSBaseColorNormalRoughness (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.17.41:805][181]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.18-17.17.41:805][181]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    4 times, average 1.01 sec, max 1.09 sec, min 0.94 sec)
+[2025.10.18-17.17.41:805][181]LogShaderCompilers: Display:                     TVirtualTextureVSBaseColorNormalSpecular - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.17.41:805][181]LogShaderCompilers: Display:                                TVirtualTexturePSDisplacement - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.17.41:806][181]LogShaderCompilers: Display:                    TVirtualTextureVSBaseColorNormalRoughness - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.17.41:806][181]LogShaderCompilers: Display:                     TVirtualTexturePSBaseColorNormalSpecular - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.17.41:806][181]LogShaderCompilers: Display: === Material stats ===
+[2025.10.18-17.17.41:806][181]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.18-17.17.41:806][181]LogShaderCompilers: Display: Materials Translated:    157
+[2025.10.18-17.17.41:806][181]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.10.18-17.17.41:806][181]LogShaderCompilers: Display: Material Translation Only: 0.08 s (44%)
+[2025.10.18-17.17.41:806][181]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.18-17.17.41:806][181]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.18-17.17.41:806][181]LogShaderCompilers: Display: ================================================
+[2025.10.18-17.20.05:984][189]LogAutomationController: Ignoring very large delta of 3.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.18-17.20.41:893][ 80]LogShaderCompilers: Display: ================================================
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Total job queries 2,592, among them cache hits 643 (24.81%), DDC hits 1,838 (70.91%), Duplicates 99 (3.82%)
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Tracking 1,850 distinct input hashes that result in 1,158 distinct outputs (62.59%)
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: RAM used: 11.82 MiB of 819.20 MiB budget. Usage: 1.44%
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Shaders Compiled: 12
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Average time worker was idle: 103.79 s
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Time job spent in pending queue: average 0.07 s, longest 0.11 s
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Job execution time: average 1.50 s, max 1.69 s
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Job life time (pending + execution): average 1.57 s, max 1.76
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Shader code size: total 83.105 KiB, numShaders 12, average 6.925 KiB, min 5.168 KiB, max 8.145 KiB
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.66 s
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.20%
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Average processing rate: 1.39 jobs/sec
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Total thread time: 14.421 s
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Total thread preprocess time: 65.133 s
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Percentage time preprocessing: 451.67%
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Effective parallelization: 1.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.208226
+[2025.10.18-17.20.41:894][ 80]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.18-17.20.41:895][ 80]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    9 times, average 1.23 sec, max 1.56 sec, min 0.94 sec)
+[2025.10.18-17.20.41:895][ 80]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 1.12 sec, max 1.17 sec, min 1.04 sec)
+[2025.10.18-17.20.41:895][ 80]LogShaderCompilers: Display:                     TVirtualTextureVSBaseColorNormalSpecular (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.20.41:895][ 80]LogShaderCompilers: Display:                                TVirtualTexturePSDisplacement (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.20.41:895][ 80]LogShaderCompilers: Display:                                   TVirtualTextureVSBaseColor (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.20.41:895][ 80]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.18-17.20.41:895][ 80]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 76.68% of total time (compiled    9 times, average 1.23 sec, max 1.56 sec, min 0.94 sec)
+[2025.10.18-17.20.41:895][ 80]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 23.32% of total time (compiled    3 times, average 1.12 sec, max 1.17 sec, min 1.04 sec)
+[2025.10.18-17.20.41:895][ 80]LogShaderCompilers: Display:                                TVirtualTexturePSDisplacement - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.20.41:895][ 80]LogShaderCompilers: Display:                                   TVirtualTextureVSBaseColor - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.20.41:895][ 80]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.18-17.20.41:895][ 80]LogShaderCompilers: Display: === Material stats ===
+[2025.10.18-17.20.41:895][ 80]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.18-17.20.41:895][ 80]LogShaderCompilers: Display: Materials Translated:    157
+[2025.10.18-17.20.41:895][ 80]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2025.10.18-17.20.41:896][ 80]LogShaderCompilers: Display: Material Translation Only: 0.08 s (44%)
+[2025.10.18-17.20.41:896][ 80]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2025.10.18-17.20.41:896][ 80]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2025.10.18-17.20.41:896][ 80]LogShaderCompilers: Display: ================================================
+[2025.10.18-17.21.16:322][284]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.10.18-17.21.16:515][284]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.10.18-17.22.01:525][685]LogAutomationController: Ignoring very large delta of 2.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.18-17.22.23:000][813]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1009.285156
+[2025.10.18-17.22.23:472][816]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.18-17.22.23:472][816]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1009.605042, Update Interval: 335.014496
+[2025.10.18-17.22.26:369][835]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.10.18-17.22.26:696][835]LogSlate: Window 'Editor Preferences' being destroyed
