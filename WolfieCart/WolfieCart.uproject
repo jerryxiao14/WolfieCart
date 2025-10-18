@@ -5,6 +5,10 @@
 	"Description": "",
 	"Plugins": [
 		{
+			"Name": "RawInput",
+			"Enabled": true
+		},
+		{
 			"Name": "ModelingToolsEditorMode",
 			"Enabled": true,
 			"TargetAllowList": [
@@ -12,7 +16,7 @@
 			]
 		},
 		{
-			"Name": "GameplayStateTree",
+			"Name": "ChaosVehiclesPlugin",
 			"Enabled": true
 		}
 	]
